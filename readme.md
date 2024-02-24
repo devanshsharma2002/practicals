@@ -1,1 +1,1 @@
-this is the folder for java practicals performed by devansh sharma in 2nd year 2nd semster of year 2023-2024.
+this is the repo folder for java practicals performed by devansh sharma in 2nd year 2nd semster of year 2023-2024.
